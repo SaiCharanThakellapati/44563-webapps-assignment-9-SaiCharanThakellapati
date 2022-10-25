@@ -19,5 +19,14 @@
     "start"
   ],
   "author": "thakellapatisaicharan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiCharanThakellapati/44563-webapps-assignment-9-SaiCharanThakellapati.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaiCharanThakellapati/44563-webapps-assignment-9-SaiCharanThakellapati/issues"
+  },
+  "homepage": "https://github.com/SaiCharanThakellapati/44563-webapps-assignment-9-SaiCharanThakellapati#readme"
 }
